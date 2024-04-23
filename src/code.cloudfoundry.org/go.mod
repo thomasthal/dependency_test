@@ -47,7 +47,7 @@ require (
 	github.com/uber-go/zap v1.27.0
 	github.com/urfave/negroni/v3 v3.1.0
 	github.com/vito/go-sse v1.0.0
-	go.step.sm/crypto v0.44.6
+	go.step.sm/crypto v0.44.7
 	golang.org/x/crypto v0.22.0
 	golang.org/x/net v0.24.0
 	golang.org/x/oauth2 v0.19.0

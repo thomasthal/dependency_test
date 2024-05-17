@@ -6,8 +6,8 @@ code.cloudfoundry.org/bbs/encryption
 code.cloudfoundry.org/bbs/format
 code.cloudfoundry.org/bbs/guidprovider
 code.cloudfoundry.org/bbs/models
-# code.cloudfoundry.org/cfhttp/v2 v2.0.1-0.20210513172332-4c5ee488a657
-## explicit
+# code.cloudfoundry.org/cfhttp/v2 v2.0.2
+## explicit; go 1.19
 code.cloudfoundry.org/cfhttp/v2
 # code.cloudfoundry.org/clock v1.1.0
 ## explicit; go 1.20

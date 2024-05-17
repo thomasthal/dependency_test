@@ -12,7 +12,7 @@ replace github.com/cactus/go-statsd-client => github.com/cactus/go-statsd-client
 
 require (
 	code.cloudfoundry.org/bbs v0.0.0-20240418184526-a7ed0dccd9f7
-	code.cloudfoundry.org/cfhttp/v2 v2.0.1-0.20210513172332-4c5ee488a657
+	code.cloudfoundry.org/cfhttp/v2 v2.0.2
 	code.cloudfoundry.org/clock v1.1.0
 	code.cloudfoundry.org/debugserver v0.0.0-20240418163436-96a22b512925
 	code.cloudfoundry.org/eventhub v0.0.0-20240418163432-077543692157
